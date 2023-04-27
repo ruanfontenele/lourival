@@ -1,9 +1,37 @@
-p{
-    color: red;
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
 }
 #azul{
     color: blue;
 }
-#roxo{
+.cor{
     color: purple;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+}
+
+i{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+}
+body{
+    
+   background-image: url("https://s1.1zoom.me/b5052/374/Holidays_Pumpkin_Halloween_Colored_background_540392_1366x768.jpg");
+    
+}
+
+button {
+    background-color: green;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 1s;
+}
+
+button:hover {
+    background-color: blue;
 }
